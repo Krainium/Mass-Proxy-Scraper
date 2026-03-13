@@ -83,7 +83,7 @@ pip install -r requirements.txt
 Run the script:
 
 ```id="tsf82o"
-python proxy-scraper.py
+python scraper.py
 ```
 
 You will be prompted to enter a file containing **proxy source URLs**.
